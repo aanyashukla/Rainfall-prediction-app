@@ -14,11 +14,6 @@ env/
 .ipynb_checkpoints/
 .pycheckpoints/
 
-# Jupyter-related
-*.ipynb
-outputs/
-*.log
-
 # System files
 .DS_Store
 Thumbs.db
