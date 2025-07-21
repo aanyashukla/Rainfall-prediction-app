@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+
+.idea/
+
+# Checkpoint files
+.ipynb_checkpoints/
+.pycheckpoints/
+
+# Jupyter-related
+*.ipynb
+outputs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+__pycache__/
+*.db
