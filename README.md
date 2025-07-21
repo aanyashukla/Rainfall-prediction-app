@@ -14,19 +14,7 @@ Built using **Random Forest**, **Streamlit**, and **Plotly** for interactive dat
 ---
 
 ## 📂 Folder Structure
-Rainfall-prediction-app/
-│
-├── streamlit_app/
-│ ├── app.py # Streamlit application
-│ └── rainfall_prediction_model.pkl # Trained model for deployment
-│
-├── Model/
-│ ├── Rainfall_Prediction.ipynb # EDA, preprocessing, model training
-│ ├── Rainfall.csv # Dataset used for training
-│ └── rainfall_prediction_model.pkl # Trained model with feature info
-│
-├── requirements.txt # Required packages
-└── README.md # You're reading this!
+<pre> 📦 Rainfall-prediction-app/ ├── 📂 streamlit_app/ │ ├── 📄 app.py # Streamlit application │ └── 📄 rainfall_prediction_model.pkl # Trained model for deployment │ ├── 📂 Model/ │ ├── 📄 Rainfall_Prediction.ipynb # EDA, preprocessing, model training │ ├── 📄 Rainfall.csv # Dataset used for training │ └── 📄 rainfall_prediction_model.pkl # Trained model with feature info │ ├── 📄 requirements.txt # Required packages └── 📄 README.md # You're reading this! </pre>
 
 
 ---
