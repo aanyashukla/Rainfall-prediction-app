@@ -3,6 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+pickle
 jupyter
 streamlit
 joblib
