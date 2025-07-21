@@ -22,7 +22,7 @@ Rainfall-prediction-app/
 │
 ├── Model/
 │ ├── Rainfall_Prediction.ipynb # EDA, preprocessing, model training
-│ ├── Rainfall.csv # Dataset used for model training
+│ ├── Rainfall.csv # Dataset used for training
 │ └── rainfall_prediction_model.pkl # Trained model with feature info
 │
 ├── requirements.txt # Required packages
