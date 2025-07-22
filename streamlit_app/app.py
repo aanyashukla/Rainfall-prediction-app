@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import joblib
 import plotly.express as px
+import os
 
 # Load model
-model_data = joblib.load("rainfall_prediction_model.pkl")
+model_path = os.path.join(os.path.dirname(__file__), "rainfall_prediction_model.pkl")
+model_data = joblib.load(model_path)
 model = model_data["model"]
 features = model_data["feature_names"]
 
