@@ -1,5 +1,9 @@
 # 🌧️ Rainfall Prediction App
 
+## 🌐 Live App
+
+🔗 [Click here to use the Rainfall Prediction App](https://rainfall-prediction-app12.streamlit.app/)
+
 A web-based machine learning app that predicts whether it will rain today based on user-provided weather conditions.
 Built using **Random Forest**, **Streamlit**, and **Plotly** for interactive data input and output visualization.
 
